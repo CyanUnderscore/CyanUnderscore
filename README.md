@@ -2,7 +2,7 @@
 The langage I use :   
 -rust (best language)   
 -python (slower than my grandma but at least it works)   
--javaScript(same)
+-javaScript(same)   
 -html (this is not a programming language)   
 -css (neither it is)   
 -C# (just for unity)   
