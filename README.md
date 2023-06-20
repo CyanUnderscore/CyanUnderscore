@@ -1,5 +1,5 @@
 ### Hello there!
-The langage I use :   
+The things I use :   
 -rust (best language)   
 -python (slower than my grandma but at least it works)   
 -javaScript(same)   
