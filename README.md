@@ -1,5 +1,7 @@
 # Hello there!
-## The things I use :   
+I'm a programer wich try to be good even if his brain is really smooth.
+
+# The things I use :
 -rust (best language)   
 -python (slower than my grandma but at least it works)   
 -javaScript(same)   
