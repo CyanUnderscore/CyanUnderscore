@@ -9,6 +9,7 @@ I'm a programer wich try to be good even if his brain is really smooth.
 -css   
 -C#   
 -C
+-C++
 
 (im currently learning so my code is really far from perfect)
 ---   
