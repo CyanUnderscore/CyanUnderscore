@@ -1,5 +1,5 @@
 # Hello there!
-I'm a programer which try to be good even if his brain is really smooth.
+I'm a programmer which try to be good even if his brain is really smooth.
 
 # The things I use :
 -rust  
