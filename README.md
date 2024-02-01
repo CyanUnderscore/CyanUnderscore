@@ -1,5 +1,5 @@
 # Hello there!
-I'm a programer wich try to be good even if his brain is really smooth.
+I'm a programer which try to be good even if his brain is really smooth.
 
 # The things I use :
 -rust  
@@ -14,3 +14,4 @@ I'm a programer wich try to be good even if his brain is really smooth.
 (im currently learning so my code is really far from perfect)
 ---   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanUnderscore&layout=compact&theme=dark)
+# (づ ^‿‿^ )づ I hope you the best
