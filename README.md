@@ -14,4 +14,4 @@ I'm a programmer which try to be good even if his brain is really smooth.
 (im currently learning so my code is really far from perfect)
 ---   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanUnderscore&layout=compact&theme=dark)
-# (づ ^‿‿^ )づ Have a great day !
+
