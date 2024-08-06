@@ -1,5 +1,5 @@
 # Hello there!
-I'm a programmer which try to be good even if his brain is really smooth.
+Welcome to my profile
 
 # The things I use :
 -rust  
