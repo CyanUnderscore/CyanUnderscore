@@ -30,7 +30,7 @@ More projects can be found [here](link to your repositories).
 ## 🌟 Get In Touch
 
 - **Email**: [My Email](mailto:julesvernet26@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/jules-vernet-2b4488321)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jules-vernet-2b4488321)
 
 Thank you for visiting my profile! Happy coding! 😄
 
